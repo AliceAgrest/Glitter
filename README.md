@@ -1,6 +1,6 @@
 # Glitter Project
 ***Last project of Network course(From Magshimim)*** <br>
-In this project i was given an app and server (There are similar only the communication keyes was diffrent) <br>
+In this project i was given an app and website (There are similar only the communication keyes was diffrent) <br>
 The server is similar to how twitter works , there is posts that you can post, friend requests, search requered user, and more<br>
 My mission was to find as much as possible errors and do five challenges <br><br>
 
@@ -24,4 +24,6 @@ My mission was to find as much as possible errors and do five challenges <br><br
 - Get password of any user <br>
 - Get privet messages of requered user <br>
 - Get cookie of any user <br>
-- Do XSRF (post that posts on client feed post)<br>
+- Do XSRF (post that posts on client feed post)<br><br>
+
+website url => http://cyber.glitter.org.il
